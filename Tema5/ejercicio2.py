@@ -7,4 +7,4 @@ def primo(numero):
     else:
         print(f'{numero} no es un numero primo')
 
-primo(113)
+primo(114)
